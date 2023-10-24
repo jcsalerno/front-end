@@ -26,3 +26,6 @@ Na quinta aula, criamos um menu de navegação usando listas não ordenadas e li
 
 A sexta aula abordou a incorporação de conteúdo multimídia, como vídeos e áudios, em uma página HTML.
 
+## Aula 7 - SEO e SMO
+
+Nesta aula, discutimos a importância do SEO (Search Engine Optimization) e SMO (Social Media Optimization). Abordamos conceitos e tags relacionadas ao SEO e SMO em uma página HTML.

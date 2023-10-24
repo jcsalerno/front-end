@@ -75,3 +75,14 @@ Nesta aula, introduzimos o uso de CSS (Cascading Style Sheets) para estilizar el
 - **Flexbox**: Introduzimos o conceito de flexbox e como ele pode ser usado para criar layouts flexíveis, como os contêineres `.d1`, `.d2`, e `.d3`.
 
 - **Animação CSS**: Demonstramos como criar animações com CSS usando a propriedade `@keyframes`, que é usada no elemento `.d4anim`.
+
+
+## Aula 8 - Formulários em HTML e CSS
+
+Nesta aula, exploramos a criação de formulários em HTML e aplicamos estilos a esses formulários usando CSS. Aqui estão os principais conceitos abordados:
+
+- **Estrutura de Formulário HTML**: Aprendemos a criar formulários HTML usando elementos como `<form>`, `<input>`, `<textarea>`, e `<button>`. Cada um desses elementos desempenha um papel fundamental na coleta de informações dos usuários.
+
+- **Estilização de Formulários**: Usamos CSS para estilizar nossos formulários. Aplicamos estilos aos campos de entrada de texto, campos de email e à área de texto. Também estilizamos o botão de envio para torná-lo atraente.
+
+- **Fundos e Cores**: Personalizamos o fundo da página e dos elementos do formulário com cores e imagens de fundo.

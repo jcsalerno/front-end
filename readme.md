@@ -61,14 +61,8 @@ Classes e IDs são seletores usados em HTML e CSS para aplicar estilos e comport
 - **Classes**: São selecionadas usando o ponto (`.minha-classe`) em CSS.
 - **IDs**: São selecionados usando a cerquilha (`#meu-id`) em CSS.
 
-Exemplo de uso:
-
-```html
-<div class="minha-classe">Este elemento usa uma classe</div>
-<div class="minha-classe">Outro elemento com a mesma classe</div>
-<div id="meu-id">Este elemento usa um ID</div>
-
 ## Aula 1 - CSS - Continuação
+
 
 Nesta aula, introduzimos o uso de CSS (Cascading Style Sheets) para estilizar elementos HTML. Abordamos vários conceitos-chave:
 
@@ -81,5 +75,3 @@ Nesta aula, introduzimos o uso de CSS (Cascading Style Sheets) para estilizar el
 - **Flexbox**: Introduzimos o conceito de flexbox e como ele pode ser usado para criar layouts flexíveis, como os contêineres `.d1`, `.d2`, e `.d3`.
 
 - **Animação CSS**: Demonstramos como criar animações com CSS usando a propriedade `@keyframes`, que é usada no elemento `.d4anim`.
-
-Essa aula estabeleceu uma base sólida para a estilização de páginas web usando CSS e animações, preparando-nos para explorar tópicos mais avançados nas próximas aulas.

@@ -1,0 +1,15 @@
+   - **Formatação do Código**: `Shift + Alt + F`
+- **Copiar linha para cima ou para baixo**: `Shift + Alt + Up/Down`
+- **Fechar a sidebar lateral**: `Ctrl + B`
+- **Navegar para uma linha específica**: `Ctrl + G`, em seguida, digite o número da linha e pressione Enter.
+- **Duplicar linha**: `Ctrl + Shift + D`
+- **Substituir linha**: `Ctrl + H`
+- **Novo arquivo**: `Ctrl + N`
+- **Ativar o salvar automático**: Clique em "File" e selecione "AutoSave"
+- **Abrir o terminal integrado**: `Ctrl + '`
+- **Apagar a linha**: `Ctrl + Shift + K`
+- **Adicionar/remover comentário**: `Ctrl + ;`
+- **Refazer ou repetir o comando do último atalho de teclado**: `Ctrl + Y`
+- **Colar texto com a indentação correta**: `Ctrl + Shift + V`
+- **Selecionar a próxima sugestão de autocomplemento**: `Ctrl + Space`
+- **Recuar várias linhas de código**: Selecione as linhas e pressione `Shift + Tab`

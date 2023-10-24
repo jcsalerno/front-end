@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sometype Mono', monospace;;
+}
+
+h1{
+    font-size: 17px;
+    font-style: normal;
+}
+
+.minha-classe {
+    color: yellowgreen;
+}
+
+#meu-id {
+    color: cyan;
+    font-size: 30px;
+}
+
+[name=paragrafo]{
+    color: brown;
+    margin-bottom: 0.1%;
+    margin-top: 0.1%;
+}
+
+.bg {
+    width: 100%;
+    height: 500px;
+    background-image: url('../video-aula/imagem-css.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+}
+
+.d1 {
+    background-color: blueviolet;
+    color: #000;
+    margin-top: 0.1%;
+}
+
+.d2 {
+    background-color: red;
+    color: #000;
+    margin-top: 0.1%;
+}
+
+.d3 {
+    background-color: green;
+    color: black;
+    margin-top: 0.1%;
+}
+
+
+@keyframes anim1 {
+    0% {background-color: palevioletred;}
+    50% {background-color: blue;}
+    100% {background-color: black;}
+    
+}
+
+.d4anim {
+    width: 200px;
+    height: 100px;
+    background-color: palevioletred;
+    animation-name: anim1;
+    animation-duration: 3s;
+    animation-delay: 4s;
+    animation-direction: alternate;
+    margin-top: 0.5%;
+}

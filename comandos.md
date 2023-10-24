@@ -13,3 +13,4 @@
 - **Colar texto com a indentação correta**: `Ctrl + Shift + V`
 - **Selecionar a próxima sugestão de autocomplemento**: `Ctrl + Space`
 - **Recuar várias linhas de código**: Selecione as linhas e pressione `Shift + Tab`
+

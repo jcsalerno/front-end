@@ -86,3 +86,20 @@ Nesta aula, exploramos a criação de formulários em HTML e aplicamos estilos a
 - **Estilização de Formulários**: Usamos CSS para estilizar nossos formulários. Aplicamos estilos aos campos de entrada de texto, campos de email e à área de texto. Também estilizamos o botão de envio para torná-lo atraente.
 
 - **Fundos e Cores**: Personalizamos o fundo da página e dos elementos do formulário com cores e imagens de fundo.
+
+## Aula 9 - JavaScript: Operações Matemáticas Básicas
+
+Nesta aula, abordamos os seguintes tópicos:
+
+- **Solicitar entrada do usuário**: Usamos o método `prompt` para solicitar números e operadores do usuário.
+
+- **Verificação de sinal**: Utilizamos um loop `while` para verificar se o operador fornecido é válido (ou seja, um dos quatro operadores: adição, subtração, multiplicação ou divisão).
+
+- **Conversão de texto para número**: Usamos `parseInt` para converter as entradas do usuário, que são strings, em números inteiros (integers).
+
+- **Realização de operações matemáticas**: Dependendo do operador inserido, realizamos a operação correspondente (adição, subtração, multiplicação ou divisão) e armazenamos o resultado na variável `resultadoFinal`.
+
+- **Exibição do resultado**: Por fim, usamos `alert` para exibir o resultado ao usuário.
+
+Esta aula fornece uma introdução às operações matemáticas básicas em JavaScript e como interagir com o usuário para realizar cálculos simples em um navegador da web.
+

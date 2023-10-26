@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 12</title>
+</head>
+<body>
+
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+
+    <script>
+        
+        var elementos = document.getElementsByClassName('box');
+        var el = elementos[0];
+
+        /*
+        el.style.width = '100px';
+        el.style.height = '100px';
+        el.style.backgroundColor = 'green';
+        el.style.marginLeft = '200px';
+        */
+
+        for(var i = 0; i < elementos.length; i++){
+            var el = elementos[i];
+
+            el.style.width = '100px';
+            el.style.height = '100px';
+            el.style.backgroundColor = 'green';
+            el.style.marginLeft = '200px';
+            el.style.marginTop = '10px';
+            el.style.borderWidth = '5px';
+            el.style.borderColor = 'red';
+            el.style.borderStytle = 'solid';
+        }
+
+
+
+
+    </script>
+
+    
+</body>
+</html>

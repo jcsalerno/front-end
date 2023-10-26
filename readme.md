@@ -103,3 +103,13 @@ Nesta aula, abordamos os seguintes tópicos:
 
 Esta aula fornece uma introdução às operações matemáticas básicas em JavaScript e como interagir com o usuário para realizar cálculos simples em um navegador da web.
 
+## Aula 10 - Manipulação do DOM com JavaScript
+
+Nesta aula, exploramos a manipulação do Document Object Model (DOM) usando JavaScript. Abaixo está um exemplo de código usado na aula:
+
+```javascript
+var p = document.getElementsByTagName('p');
+
+for (var i = 0; i < 10; i++){
+    p[0].innerHTML = p[0].innerHTML + " algo -";
+}
